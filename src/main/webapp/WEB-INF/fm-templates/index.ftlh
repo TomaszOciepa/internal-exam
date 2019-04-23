@@ -5,8 +5,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css">
-    
-    <title>Driving School</title>
+
+    <title>Internal Exam</title>
 </head>
 
 <h1>Hello internal exam</h1>
